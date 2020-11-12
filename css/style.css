@@ -81,7 +81,9 @@ article h1{
     padding-top: 30px;
     padding-bottom: 30px;
 }
-article p{}
+article p{
+    margin-bottom: 20px;
+}
 article a{
     text-decoration:  none;
 }
